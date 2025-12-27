@@ -1,0 +1,1556 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Free tool to Visualize, Edit, Filter complex JSON data into beautiful tabular Grid. Save and Share JSON data over link link.",
+          "title": "JSONGrid"
+        },
+        {
+          "children": [],
+          "description": "Turn your Google Sheets spreadsheets into powerful API`s to rapidly develop prototypes, websites, apps and more. 500 requests per month available for free.",
+          "title": "Zerosheets"
+        },
+        {
+          "children": [],
+          "description": "Convert JSON into an interactive table for quick viewing, editing, and sharing online.",
+          "title": "JSON to Table"
+        },
+        {
+          "children": [],
+          "description": "100 Free IP geolocation requests per day",
+          "title": "IP.City"
+        },
+        {
+          "children": [],
+          "description": "API suite for various use cases, including IP geolocation, gender detection, or email validation.",
+          "title": "Abstract API"
+        },
+        {
+          "children": [],
+          "description": "Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.",
+          "title": "Apify"
+        },
+        {
+          "children": [],
+          "description": "Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.",
+          "title": "APITemplate.io"
+        },
+        {
+          "children": [],
+          "description": "All the tools you need to fully understand what's going on in your APIs and Backends. With automatic API contract validation and monitoring. The free plan covers servers with up to 10,000 requests per day.",
+          "title": "APIToolkit.io"
+        },
+        {
+          "children": [],
+          "description": "Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)",
+          "title": "APIVerve"
+        },
+        {
+          "children": [],
+          "description": "Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.",
+          "title": "Arize AI"
+        },
+        {
+          "children": [],
+          "description": "Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).",
+          "title": "Maxim AI"
+        },
+        {
+          "children": [],
+          "description": "No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing. The free plan includes 50 requests per day and provides a public dashboard/endpoint where anyone with the dashboard URL can view submitted requests and responses.",
+          "title": "Beeceptor"
+        },
+        {
+          "children": [],
+          "description": "Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.",
+          "title": "BigDataCloud"
+        },
+        {
+          "children": [],
+          "description": "Extracting and monitoring data on the web. 1k credits per month for free, equals 1k concurrent requests.",
+          "title": "Browse AI"
+        },
+        {
+          "children": [],
+          "description": "Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.",
+          "title": "BrowserCat"
+        },
+        {
+          "children": [],
+          "description": "Comprehensive automotive data API with VIN decoding, stolen vehicle checks, vehicle valuation, inspection data, and more. Free tier includes 100 requests/month across all 9 endpoints.",
+          "title": "CarAPI.dev"
+        },
+        {
+          "children": [],
+          "description": "Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 500 calls per month.",
+          "title": "Calendarific"
+        },
+        {
+          "children": [],
+          "description": "GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.",
+          "title": "Canopy"
+        },
+        {
+          "children": [],
+          "description": "Image API for custom face recognition and detection. Able to train AI models. The free plan has 1,000 calls per month.",
+          "title": "Clarifai"
+        },
+        {
+          "children": [],
+          "description": "Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 600 calls/month, North America AZ only, 2.5MB maximum file size.",
+          "title": "Cloudmersive"
+        },
+        {
+          "children": [],
+          "description": "Free web-based Python notebook environment with Nvidia Tesla K80 GPU.",
+          "title": "Colaboratory"
+        },
+        {
+          "children": [],
+          "description": "The MLOps platform for experiment tracking, model production management, model registry, and complete data lineage, covering your workflow from training to production. Free for individuals and academics.",
+          "title": "CometML"
+        },
+        {
+          "children": [],
+          "description": "Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.",
+          "title": "Commerce Layer"
+        },
+        {
+          "children": [],
+          "description": "Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.",
+          "title": "Composio"
+        },
+        {
+          "children": [],
+          "description": "Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size (20MB) and number of conversions (30/Day, 300/Month).",
+          "title": "Conversion Tools"
+        },
+        {
+          "children": [],
+          "description": "API and Microservice to provides a wide range of information including countries, regions, provinces, cities, postal codes, and much more. The free tier includes up to 100 requests per day.",
+          "title": "Country-State-City Microservice API"
+        },
+        {
+          "children": [],
+          "description": "Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan is limited to one user, data connection, data source, and data destination. Also requires manual data refresh.",
+          "title": "Coupler"
+        },
+        {
+          "children": [],
+          "description": "Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.",
+          "title": "CraftMyPDF"
+        },
+        {
+          "children": [],
+          "description": "Crawl and scrape websites without proxies, infrastructure, or browsers. We solve captchas for you and prevent you from being blocked. The first 1000 calls are free of charge.",
+          "title": "Crawlbase"
+        },
+        {
+          "children": [],
+          "description": "Proxy service for inspecting and debugging API calls. The free plan includes 10,000 requests per month.",
+          "title": "CurlHub"
+        },
+        {
+          "children": [],
+          "description": "Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.",
+          "title": "CurrencyScoop"
+        },
+        {
+          "children": [],
+          "description": "HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.",
+          "title": "CustomJS"
+        },
+        {
+          "children": [],
+          "description": "Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free tier limited to 1,000 queries per day.",
+          "title": "Cube"
+        },
+        {
+          "children": [],
+          "description": "Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.",
+          "title": "Data Fetcher"
+        },
+        {
+          "children": [],
+          "description": "Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.",
+          "title": "Dataimporter.io"
+        },
+        {
+          "children": [],
+          "description": "Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.",
+          "title": "Datalore"
+        },
+        {
+          "children": [],
+          "description": "A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.",
+          "title": "Data Miner"
+        },
+        {
+          "children": [],
+          "description": "API for building interactive reports in Python and deploying Python scripts and Jupyter Notebooks as self-service tools.",
+          "title": "Datapane"
+        },
+        {
+          "children": [],
+          "description": "Free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.",
+          "title": "DB-IP"
+        },
+        {
+          "children": [],
+          "description": "Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.",
+          "title": "DB Designer"
+        },
+        {
+          "children": [],
+          "description": "Augmented reality face filters for any platform with one SDK. The free plan provides up to 10 monthly active users (MAU) and tracks up to 4 faces",
+          "title": "DeepAR"
+        },
+        {
+          "children": [],
+          "description": "A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.",
+          "title": "Deepnote"
+        },
+        {
+          "children": [],
+          "description": "A free API providing accurate data for building the Covid-19 related useful Apps.",
+          "title": "Disease.sh"
+        },
+        {
+          "children": [],
+          "description": "SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.",
+          "title": "Doczilla"
+        },
+        {
+          "children": [],
+          "description": "Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.",
+          "title": "Doppio"
+        },
+        {
+          "children": [],
+          "description": "Free and open-source online database diagram editor with no signup required.",
+          "title": "drawDB"
+        },
+        {
+          "children": [],
+          "description": "Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service, and it instantly creates a comprehensive REST API platform with live documentation and user management.",
+          "title": "dreamfactory.com"
+        },
+        {
+          "children": [],
+          "description": "Create dynamic images from API & URL, design template once and reuse it. The free tier offers 20 free credits.",
+          "title": "Duply.co"
+        },
+        {
+          "children": [],
+          "description": "Generate PDF documents with JSON to PDF API based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates.",
+          "title": "DynamicDocs"
+        },
+        {
+          "children": [],
+          "description": "Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.",
+          "title": "Earnings Feed"
+        },
+        {
+          "children": [],
+          "description": "Testing and debugging platform for ML models and data. Visualize any computational graph. Free local use.",
+          "title": "Efemarai"
+        },
+        {
+          "children": [],
+          "description": "Free cloud-based entity relationship diagram (ERD) tool made for developers. Free trial includes 2 projecs with 10 tables each.",
+          "title": "ERD Lab"
+        },
+        {
+          "children": [],
+          "description": "Free web-based HTTP client to send HTTP requests.",
+          "title": "ExtendsClass"
+        },
+        {
+          "children": [],
+          "description": "PDF generator API with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.",
+          "title": "Export SDK"
+        },
+        {
+          "children": [],
+          "description": "Stock market and financial data API. Free plan allows 300 requests per day.",
+          "title": "Financial Data"
+        },
+        {
+          "children": [],
+          "description": "A free, browser-based tool to format, validate,compare and minify JSON data instantly.",
+          "title": "FormatJSONOnline.com"
+        },
+        {
+          "children": [],
+          "description": "Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.",
+          "title": "FraudLabs Pro"
+        },
+        {
+          "children": [],
+          "description": "Location search service looks up city names using latitude and longitude coordinates. Free API queries up to 500 times per month.",
+          "title": "GeoDataSource"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.",
+          "title": "Geolocated.io"
+        },
+        {
+          "children": [],
+          "description": "Programmatically generate dynamic images from base templates. Restful API and nocode integrations. The free tier comes with 50 images/month and five templates.",
+          "title": "Glitterly"
+        },
+        {
+          "children": [],
+          "description": "a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.",
+          "title": "Hex"
+        },
+        {
+          "children": [],
+          "description": "Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.",
+          "title": "Hook0"
+        },
+        {
+          "children": [],
+          "description": "A free, fast, and beautiful API request builder.",
+          "title": "Hoppscotch"
+        },
+        {
+          "children": [],
+          "description": "Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.",
+          "title": "huggingface.co"
+        },
+        {
+          "children": [],
+          "description": "Build pdf reports using a simple declarative API. The 14-day free tier includes 50 single-page reports with the ability to customize color palettes and fonts.",
+          "title": "Hybiscus"
+        },
+        {
+          "children": [],
+          "description": "Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.",
+          "title": "Invantive Cloud"
+        },
+        {
+          "children": [],
+          "description": "Simple service to get a public IP address in different .",
+          "title": "ipaddress.sh"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.",
+          "title": "ip-api"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API - Forever free plan that spans 150 monthly requests.",
+          "title": "ipbase.com"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API - Forever free plan for developers with a 1,000 requests per day limit.",
+          "title": "IP Geolocation"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API from Abstract - Allows 1,000 free requests.",
+          "title": "IP Geolocation API"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API, free up to 1,000 requests/day. Includes proxy/VPN/hosting detection, ASN data, IP to Company, and more. IPLocate also offers free downloadable IP to Country and IP to ASN databases in CSV or GeoIP-compatible MMDB formats.",
+          "title": "IPLocate"
+        },
+        {
+          "children": [],
+          "description": "Freemium IP geolocation service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.",
+          "title": "IP2Location"
+        },
+        {
+          "children": [],
+          "description": "Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.",
+          "title": "IP2Location.io"
+        },
+        {
+          "children": [],
+          "description": "IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.",
+          "title": "ipapi"
+        },
+        {
+          "children": [],
+          "description": "A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.",
+          "title": "ipapi.is"
+        },
+        {
+          "children": [],
+          "description": "Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.",
+          "title": "IPinfo"
+        },
+        {
+          "children": [],
+          "description": "Unlimited IP API for developers, no ratelimits, or pricing.",
+          "title": "IPQuery"
+        },
+        {
+          "children": [],
+          "description": "An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.",
+          "title": "IPTrace"
+        },
+        {
+          "children": [],
+          "description": "A video editing API to automate video marketing and social media videos, programmatically or with no code.",
+          "title": "JSON2Video"
+        },
+        {
+          "children": [],
+          "description": "Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.",
+          "title": "JSON IP"
+        },
+        {
+          "children": [],
+          "description": "A free service that helps developers to store JSON objects and use that JSON as a REST API in their app.",
+          "title": "JSON Serve"
+        },
+        {
+          "children": [],
+          "description": "Create a fake REST API from a JSON object, and customize HTTP status codes, headers, and response bodies.",
+          "title": "JSONing"
+        },
+        {
+          "children": [],
+          "description": "JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.",
+          "title": "JSONSwiss"
+        },
+        {
+          "children": [],
+          "description": "API Marketplace and powerful private and public API tools. With the free tier, some features such as monitoring, alerting, and support, are limited.",
+          "title": "konghq.com"
+        },
+        {
+          "children": [],
+          "description": "Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.",
+          "title": "Kreya"
+        },
+        {
+          "children": [],
+          "description": "Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.",
+          "title": "Lightly"
+        },
+        {
+          "children": [],
+          "description": "A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.",
+          "title": "LoginLlama"
+        },
+        {
+          "children": [],
+          "description": "KillBait API allows users to submit URLs for content evaluation, detecting potential clickbait and categorizing articles. The API is designed for moderate publishing frequency, with limits of 1 submission per hour and 10 per day. Media partners can request higher limits.",
+          "title": "KillBait API"
+        },
+        {
+          "children": [],
+          "description": "Email verification service using real mail server connection to confirm valid email. The free API plan has 100 verifications per month.",
+          "title": "MailboxValidator"
+        },
+        {
+          "children": [],
+          "description": "Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.",
+          "title": "Market Data API"
+        },
+        {
+          "children": [],
+          "description": "global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.",
+          "title": "Meteosource Weather API"
+        },
+        {
+          "children": [],
+          "description": "It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 50 requests per day, every day free.",
+          "title": "microlink.io"
+        },
+        {
+          "children": [],
+          "description": "Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.",
+          "title": "Mindee"
+        },
+        {
+          "children": [],
+          "description": "Modern standard for API documentation. Beautiful and easy-to-maintain UI components, in-app search, and interactive playground. Free for 1 editor.",
+          "title": "Mintlify"
+        },
+        {
+          "children": [],
+          "description": "MockAPI is a simple tool that lets you quickly mock up APIs, generate custom data, and perform operations using a RESTful interface. MockAPI is meant to be a prototyping/testing/learning tool. One project/2 resources per project for free.",
+          "title": "MockAPI"
+        },
+        {
+          "children": [],
+          "description": "Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.",
+          "title": "Mockfly"
+        },
+        {
+          "children": [],
+          "description": "A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.",
+          "title": "Mocki"
+        },
+        {
+          "children": [],
+          "description": "Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.",
+          "title": "Mocko.dev"
+        },
+        {
+          "children": [],
+          "description": "A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as .",
+          "title": "Mocky",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-04T12:31:13Z",
+            "owner": "julien-lafont",
+            "repo": "Mocky",
+            "stars": 2082
+          }
+        },
+        {
+          "children": [],
+          "description": "Free Mocks API Service—a powerful tool to simulate real API responses without backend delays. Perfect for frontend devs, QA testers, and DevOps teams. .",
+          "title": "Mock N Roll",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-15T09:13:12Z",
+            "owner": "haerulmuttaqin",
+            "repo": "mocknroll-web",
+            "stars": 10
+          }
+        },
+        {
+          "children": [],
+          "description": "Create fake REST API for developers with the possibility to generate code and app in a docker container.",
+          "title": "microenv.com"
+        },
+        {
+          "children": [],
+          "description": "A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.",
+          "title": "Multi-Exit IP Address Checker"
+        },
+        {
+          "children": [],
+          "description": "AI-powered domain discovery – find available, standard-price names instantly. Free daily queries.",
+          "title": "Namekit"
+        },
+        {
+          "children": [],
+          "description": "Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.",
+          "title": "News API"
+        },
+        {
+          "children": [],
+          "description": "Free phone number validation API - 100 free requests / month.",
+          "title": "numlookupapi.com"
+        },
+        {
+          "children": [],
+          "description": "An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.",
+          "title": "OCR.Space"
+        },
+        {
+          "children": [],
+          "description": "Visually create Open API 3 definitions for free.",
+          "title": "OpenAPI3 Designer"
+        },
+        {
+          "children": [],
+          "description": "Extract data from dynamic sites, turn dynamic websites into APIs, five projects free.",
+          "title": "parsehub.com"
+        },
+        {
+          "children": [],
+          "description": "20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.",
+          "title": "Parseur"
+        },
+        {
+          "children": [],
+          "description": "Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.",
+          "title": "PDFBolt"
+        },
+        {
+          "children": [],
+          "description": "Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.",
+          "title": "pdfEndpoint.com"
+        },
+        {
+          "children": [],
+          "description": "PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.",
+          "title": "PDF-API.io"
+        },
+        {
+          "children": [],
+          "description": "Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.",
+          "title": "Pixela"
+        },
+        {
+          "children": [],
+          "description": "Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.",
+          "title": "Postman"
+        },
+        {
+          "children": [],
+          "description": "Open-source API client for designing and testing APIs, it supports REST and GraphQL",
+          "title": "Insomnia"
+        },
+        {
+          "children": [],
+          "description": "A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.",
+          "title": "PrefectCloud"
+        },
+        {
+          "children": [],
+          "description": "A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.",
+          "title": "Preset Cloud"
+        },
+        {
+          "children": [],
+          "description": "PromptLoop delivers 10X easier AI web scraping with near-zero adoption time, 85%+ time saved on existing workflows, and operates 4X faster than manual research without compromise and includes a REST API endpoint for all research tasks. The first 1,000 credits are free each month.",
+          "title": "PromptLoop"
+        },
+        {
+          "children": [],
+          "description": "IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.",
+          "title": "ProxySentry"
+        },
+        {
+          "children": [],
+          "description": "A list of free public APIs.",
+          "title": "Public-Apis Github Repo",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T18:29:01Z",
+            "owner": "public-apis",
+            "repo": "public-apis",
+            "stars": 388008
+          }
+        },
+        {
+          "children": [],
+          "description": "Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.",
+          "title": "Reducto"
+        },
+        {
+          "children": [],
+          "description": "World’s Largest API Hub Millions of developers find and connect to thousands of APIs, API Development using fun challenges (with solutions!) and interactive examples.",
+          "title": "Rapidapi"
+        },
+        {
+          "children": [],
+          "description": "FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.",
+          "title": "Rendi"
+        },
+        {
+          "children": [],
+          "description": "Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.",
+          "title": "RequestBin.com"
+        },
+        {
+          "children": [],
+          "description": "A Free hosted REST-API ready to respond to your AJAX requests.",
+          "title": "reqres.in"
+        },
+        {
+          "children": [],
+          "description": "create and deploy a custom computer vision model with no prior machine learning experience required. The free tier includes 30 credits per month.",
+          "title": "Roboflow"
+        },
+        {
+          "children": [],
+          "description": "Web service to generate unique and cool images from any text.",
+          "title": "ROBOHASH"
+        },
+        {
+          "children": [],
+          "description": "Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).",
+          "title": "Scraper's Proxy"
+        },
+        {
+          "children": [],
+          "description": "Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free 10,000 API credits.",
+          "title": "ScrapingAnt"
+        },
+        {
+          "children": [],
+          "description": "Monitor for any visual or textual change in a target website and data extraction. Free plan allows upto 5 URLs a month.",
+          "title": "ScrapX"
+        },
+        {
+          "children": [],
+          "description": "Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.",
+          "title": "Simplescraper"
+        },
+        {
+          "children": [],
+          "description": "is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 2 Data Source, up to 1,000 Tables and 25 Users.",
+          "title": "Select Star"
+        },
+        {
+          "children": [],
+          "description": "Instantly turn any Google Sheets into a RESTful API. Free plan available, including 1,000 free rows per sheet.",
+          "title": "Sheetson"
+        },
+        {
+          "children": [],
+          "description": "Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.",
+          "title": "Siterelic"
+        },
+        {
+          "children": [],
+          "description": "Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.",
+          "title": "SerpApi"
+        },
+        {
+          "children": [],
+          "description": "SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.",
+          "title": "SmartParse"
+        },
+        {
+          "children": [],
+          "description": "Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.",
+          "title": "Sofodata"
+        },
+        {
+          "children": [],
+          "description": "A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.",
+          "title": "YourGPT CSV to JSON"
+        },
+        {
+          "children": [],
+          "description": "A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.",
+          "title": "Sqlable"
+        },
+        {
+          "children": [],
+          "description": "Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.",
+          "title": "Stoplight"
+        },
+        {
+          "children": [],
+          "description": "Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.",
+          "title": "Supportivekoala"
+        },
+        {
+          "children": [],
+          "description": "Webhooks as a Service. Send up to 50,000 messages/month for free.",
+          "title": "Svix"
+        },
+        {
+          "children": [],
+          "description": "API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.",
+          "title": "Tavily AI"
+        },
+        {
+          "children": [],
+          "description": "IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.",
+          "title": "The IP API"
+        },
+        {
+          "children": [],
+          "description": "rich text editing API. Core features are free for unlimited usage.",
+          "title": "TinyMCE"
+        },
+        {
+          "children": [],
+          "description": "Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.",
+          "title": "Tomorrow.io Weather API"
+        },
+        {
+          "children": [],
+          "description": "Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.",
+          "title": "Treblle"
+        },
+        {
+          "children": [],
+          "description": "Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.",
+          "title": "UniRateAPI"
+        },
+        {
+          "children": [],
+          "description": "Simple and free VAT number validation API. 150 free validations per month.",
+          "title": "vatcheckapi.com"
+        },
+        {
+          "children": [],
+          "description": "Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.",
+          "title": "WeatherXu"
+        },
+        {
+          "children": [],
+          "description": "Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.",
+          "title": "WebScraping.AI"
+        },
+        {
+          "children": [],
+          "description": "The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.",
+          "title": "Weights & Biases"
+        },
+        {
+          "children": [],
+          "description": "AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).",
+          "title": "What The Diff"
+        },
+        {
+          "children": [],
+          "description": "Built-in knowledge-based algorithms in the cloud.",
+          "title": "wolfram.com"
+        },
+        {
+          "children": [],
+          "description": "Turn any website into a parameterized API. 30k API calls per month.",
+          "title": "wrapapi.com"
+        },
+        {
+          "children": [],
+          "description": "Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.",
+          "title": "Zenscrape"
+        },
+        {
+          "children": [],
+          "description": "Free Zip Code API, access to Worldwide Postal Code Data. 5,000 free requests/month.",
+          "title": "Zipcodebase"
+        },
+        {
+          "children": [],
+          "description": "Free Zip Code API and Postal Code Validation. Ten thousand free requests/month.",
+          "title": "Zipcodestack"
+        },
+        {
+          "children": [],
+          "description": "Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 1M monthly requests, and 10GB egress.",
+          "title": "Zuplo"
+        },
+        {
+          "children": [],
+          "description": "An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.",
+          "title": "DiffJSON"
+        },
+        {
+          "children": [],
+          "description": "Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON",
+          "title": "FreeIPAPI"
+        }
+      ],
+      "title": "APIs, Data, and ML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Instantly auto-fix outputs from tools like Cursor, Windsurf, and Copilot to meet your company's quality and compliance standards using guardrails built with Policy as Code. The free tier includes 100 tools calls per day to the MCP server and 25 free automated pull request reviews per day via the GitHub App.",
+          "title": "Zenable"
+        },
+        {
+          "children": [],
+          "description": "The best LLM monitoring platform. One format to call 200+ LLMs with 2 lines of code. 10,000 free requests every month and $0 for platform features!",
+          "title": "Keywords AI"
+        },
+        {
+          "children": [],
+          "description": "Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.",
+          "title": "Portkey"
+        },
+        {
+          "children": [],
+          "description": "AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.",
+          "title": "Arize AX"
+        },
+        {
+          "children": [],
+          "description": "Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.",
+          "title": "Braintrust"
+        },
+        {
+          "children": [],
+          "description": "Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.",
+          "title": "Findr"
+        },
+        {
+          "children": [],
+          "description": "AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.",
+          "title": "ReportGPT"
+        },
+        {
+          "children": [],
+          "description": "Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.",
+          "title": "Clair"
+        },
+        {
+          "children": [],
+          "description": "enables developers to trace, evaluate, manage prompts and datasets, and debug issues related to an LLM application’s performance. It creates open telemetry standard traces for any LLM which helps with observability and works with any observability client. Free plan offers 50K traces/month.",
+          "title": "Langtrace"
+        },
+        {
+          "children": [],
+          "description": "A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers.",
+          "title": "LangWatch",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-26T13:10:58Z",
+            "owner": "langwatch",
+            "repo": "langwatch",
+            "stars": 2701
+          }
+        },
+        {
+          "children": [],
+          "description": "Evaluate, test, and ship LLM applications across your dev and production lifecycles.",
+          "title": "Comet Opik",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-27T06:07:08Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 16991
+          }
+        },
+        {
+          "children": [],
+          "description": "Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features.",
+          "title": "Langfuse",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-25T22:07:16Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 19772
+          }
+        },
+        {
+          "children": [],
+          "description": "Open source platform for tracing, model evaluators, experiments for AI agents from the team at Arize AI. All features open source under elastic License 2.0 (ELv2).",
+          "title": "Phoenix",
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-27T00:50:35Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 8041
+          }
+        },
+        {
+          "children": [],
+          "description": "easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow.",
+          "title": "Pollinations.AI",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-27T01:34:28Z",
+            "owner": "pollinations",
+            "repo": "pollinations",
+            "stars": 3557
+          }
+        },
+        {
+          "children": [],
+          "description": "An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics.",
+          "title": "Othor AI",
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-27T05:56:51Z",
+            "owner": "othorai",
+            "repo": "othor.ai",
+            "stars": 52
+          }
+        },
+        {
+          "children": [],
+          "description": "Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.",
+          "title": "OpenRouter"
+        },
+        {
+          "children": [],
+          "description": "MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.",
+          "title": "Mediaworkbench.ai"
+        },
+        {
+          "children": [],
+          "description": "AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC",
+          "title": "Audio Enhancer"
+        }
+      ],
+      "title": "Generative AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "a curated list of free stock images, audio and videos.",
+          "title": "AllTheFreeStock"
+        },
+        {
+          "children": [],
+          "description": "free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.",
+          "title": "Float UI"
+        },
+        {
+          "children": [],
+          "description": "Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.",
+          "title": "Ant Design Landing Page"
+        },
+        {
+          "children": [],
+          "description": "With collaboration between developers and designers at heart, Backlight is a complete coding platform where teams build, document, publish, scale, and maintain Design Systems. The free plan allows up to 3 editors to work on one design system with unlimited viewers.",
+          "title": "Backlight"
+        },
+        {
+          "children": [],
+          "description": "A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.",
+          "title": "BoxySVG"
+        },
+        {
+          "children": [],
+          "description": "Free online tool to create social media carousels.",
+          "title": "Carousel Hero"
+        },
+        {
+          "children": [],
+          "description": "Consistent open-source icons such as SVG for React, Vue, and Svelte.",
+          "title": "Circum Icons"
+        },
+        {
+          "children": [],
+          "description": "Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.",
+          "title": "clevebrush.com"
+        },
+        {
+          "children": [],
+          "description": "Convert anything to anything. Two hundred eight supported formats including videos and gifs.",
+          "title": "cloudconvert.com"
+        },
+        {
+          "children": [],
+          "description": "Handpicked collection of Web Design & UI Inspiration with Code Snippets.",
+          "title": "CodeMyUI"
+        },
+        {
+          "children": [],
+          "description": "Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.",
+          "title": "CodedThemes"
+        },
+        {
+          "children": [],
+          "description": "Create color palettes online or get inspiration from top palettes.",
+          "title": "ColorKit"
+        },
+        {
+          "children": [],
+          "description": "Color & Gradient Generator",
+          "title": "colorr.me"
+        },
+        {
+          "children": [],
+          "description": "Color palette generator. Free.",
+          "title": "coolors"
+        },
+        {
+          "children": [],
+          "description": "Easily convert CMYK values to the closest Pantone colors and other color models in seconds for free.",
+          "title": "CMYK Pantone"
+        },
+        {
+          "children": [],
+          "description": "Hand-curated color pallets best fitted for brands.",
+          "title": "Branition"
+        },
+        {
+          "children": [],
+          "description": "Free tool to quickly generate custom cross-browser CSS gradients. In RGB and HEX format.",
+          "title": "css-gradient.com"
+        },
+        {
+          "children": [],
+          "description": "EasyVectors.com is a free SVG vector art stock. Download the best vector graphics absolutely for free.",
+          "title": "easyvectors.com"
+        },
+        {
+          "children": [],
+          "description": "Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.",
+          "title": "figma.com"
+        },
+        {
+          "children": [],
+          "description": "The Easiest Components Library For Tailwind CSS.",
+          "title": "Flyon UI"
+        },
+        {
+          "children": [],
+          "description": "Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, and up to 3 projects.",
+          "title": "framer.com"
+        },
+        {
+          "children": [],
+          "description": "FFCU Worry-free model/property release stock photos",
+          "title": "freeforcommercialuse.net"
+        },
+        {
+          "children": [],
+          "description": "Makes choosing a gradient fast and easy.",
+          "title": "Gradientos"
+        },
+        {
+          "children": [],
+          "description": "Get the highest resolution favicon for any website from our simple API.",
+          "title": "Icon Horse"
+        },
+        {
+          "children": [],
+          "description": "An open-source icons library with thousands of icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.",
+          "title": "Iconoir"
+        },
+        {
+          "children": [],
+          "description": "Icons, illustrations, photos, music, and design tools. Free Plan offers Limited formats in lower resolution. Link to Icons8 when you use our assets.",
+          "title": "Icons8"
+        },
+        {
+          "children": [],
+          "description": "Generate, edit, and publish beautiful websites and landing pages for your startup. All without code. The free tier allows you to have one website, fully customizable and published on the web.",
+          "title": "landen.co"
+        },
+        {
+          "children": [],
+          "description": "Quant Ux is a prototyping and design tool. - It's completely free and also open source.",
+          "title": "Quant Ux"
+        },
+        {
+          "children": [],
+          "description": "Free cloud image hosting.",
+          "title": "lensdump.com"
+        },
+        {
+          "children": [],
+          "description": "A Free tool, easy to use, stylish placeholders. After our URL, add your desired image size (width & height), and you'll get a random image.",
+          "title": "Lorem Picsum"
+        },
+        {
+          "children": [],
+          "description": "The world’s largest online platform for the world’s most miniature animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.",
+          "title": "LottieFiles"
+        },
+        {
+          "children": [],
+          "description": "A collection of CSS & SVG background generators & tools for gradients, patterns, and blobs.",
+          "title": "MagicPattern"
+        },
+        {
+          "children": [],
+          "description": "Design, prototyping, and collaboration, free plan limited to one user and project.",
+          "title": "marvelapp.com"
+        },
+        {
+          "children": [],
+          "description": "Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.",
+          "title": "Mindmup.com"
+        },
+        {
+          "children": [],
+          "description": "Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes three users and five projects with all features available.",
+          "title": "Mockplus iDoc"
+        },
+        {
+          "children": [],
+          "description": "Create realistic t-shirt and clothing mockups for social media and E-commerce, 40 free mockups.",
+          "title": "mockupmark.com"
+        },
+        {
+          "children": [],
+          "description": "Complete diagramming platform with UML, system architecture, flowcharts, mind maps, and Agile workflows. Real-time collaboration with unlimited team members, no credit card required.",
+          "title": "Modeldraw.com"
+        },
+        {
+          "children": [],
+          "description": "Free SVG image generator with different tools like waves, blogs and patterns.",
+          "title": "Mossaik"
+        },
+        {
+          "children": [],
+          "description": "Fast, browser-based vector editor. Completely free.",
+          "title": "movingpencils.com"
+        },
+        {
+          "children": [],
+          "description": "Free Stock Photos, Icons & Illustrations.",
+          "title": "NSPolygon"
+        },
+        {
+          "children": [],
+          "description": "Visual sitemap builder. Build your website structure in real time and rapidly share it to collaborate with your team or clients.",
+          "title": "Octopus.do"
+        },
+        {
+          "children": [],
+          "description": "Open source design tool using Electron.",
+          "title": "Pencil",
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-10T07:20:03Z",
+            "owner": "evolus",
+            "repo": "pencil",
+            "stars": 9308
+          }
+        },
+        {
+          "children": [],
+          "description": "Web-based, open-source design and prototyping tool. Supports SVG. Completely free.",
+          "title": "Penpot"
+        },
+        {
+          "children": [],
+          "description": "Free stock photos for commercial use. Has a free API that allows you to search photos by keywords.",
+          "title": "pexels.com"
+        },
+        {
+          "children": [],
+          "description": "A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).",
+          "title": "photopea.com"
+        },
+        {
+          "children": [],
+          "description": "Free online browser editor on the level of commercial ones.",
+          "title": "pixlr.com"
+        },
+        {
+          "children": [],
+          "description": "A fast, easy-to-use, robust web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.",
+          "title": "Plasmic"
+        },
+        {
+          "children": [],
+          "description": "Generate a random/placeholder fake avatar whose URL can be directly hot-linked in your web/app.",
+          "title": "Pravatar"
+        },
+        {
+          "children": [],
+          "description": "Convert PNG images to WebP images directly in your browser. No upload required, fully client-side processing for maximum privacy and security.",
+          "title": "PNG to WebP Converter"
+        },
+        {
+          "children": [],
+          "description": "Create fully interactive UI prototypes without coding. The free tier is available when the free trial ends. The free tier includes one user, one project, five prototypes, 100MB of online storage, and a preview of the proto.io app.",
+          "title": "Proto.io"
+        },
+        {
+          "children": [],
+          "description": "A simple service to resize and manage your app icons.",
+          "title": "resizeappicon.com"
+        },
+        {
+          "children": [],
+          "description": "Create and ship beautiful animations to any platform. Free forever for Individuals. The service is an editor that also hosts all the graphics on their servers. They also provide runtimes for many platforms to run representations made using Rive.",
+          "title": "Rive"
+        },
+        {
+          "children": [],
+          "description": "Create incredible free customized illustrations for your project using this tool.",
+          "title": "storyset.com"
+        },
+        {
+          "children": [],
+          "description": "Create product mockups, 200 free mockups.",
+          "title": "smartmockups.com"
+        },
+        {
+          "children": [],
+          "description": "Preview your theme changes across different components and layouts.",
+          "title": "Shadcn Studio"
+        },
+        {
+          "children": [],
+          "description": "A collection of modern, responsive, pre-built UI blocks designed for marketing websites.",
+          "title": "Tailark"
+        },
+        {
+          "children": [],
+          "description": "Over 1500 free copy-and-paste SVG editable icons.",
+          "title": "tabler-icons.io"
+        },
+        {
+          "children": [],
+          "description": "Beautiful themes for shadcn/ui. Customize colors, typography, and more in real-time.",
+          "title": "tweakcn"
+        },
+        {
+          "children": [],
+          "description": "Generate avatars with initials from names. The URLs can be directly hot-linked in your web/app. Support config parameters via the URL.",
+          "title": "UI Avatars"
+        },
+        {
+          "children": [],
+          "description": "A constantly updated collection of beautiful SVG images that you can use completely free without attribution.",
+          "title": "unDraw"
+        },
+        {
+          "children": [],
+          "description": "Free stock photos for commercial and noncommercial purposes (do-whatever-you-want license).",
+          "title": "unsplash.com"
+        },
+        {
+          "children": [],
+          "description": "Free Design App for Web + Desktop.",
+          "title": "vectr.com"
+        },
+        {
+          "children": [],
+          "description": "Enterprise Class Guidance and Engagement Platform, free plan three walk-thru up to 5 steps/walk.",
+          "title": "walkme.com"
+        },
+        {
+          "children": [],
+          "description": "WYSIWYG website builder with animations and website hosting. Free for two projects.",
+          "title": "Webflow"
+        },
+        {
+          "children": [],
+          "description": "WYSIWYG website builder for tailwindcss-based designs. Free for non-commercial usage.",
+          "title": "Updrafts.app"
+        },
+        {
+          "children": [],
+          "description": "Collaborative flowcharts, wireframes, sticky notes and mind maps. Create up to 4 free boards.",
+          "title": "whimsical.com"
+        },
+        {
+          "children": [],
+          "description": "Designer and developer collaboration platform. Show designs, assets, and style guides. Free for one project.",
+          "title": "Zeplin"
+        },
+        {
+          "children": [],
+          "description": "Create and edit engaging, unique graphics and images online.",
+          "title": "Pixelixe"
+        },
+        {
+          "children": [],
+          "description": "A free dev tool for faster and more precise responsive web application development.",
+          "title": "Responsively App"
+        },
+        {
+          "children": [],
+          "description": "Online mockup graphics editor with an ever-expanding collection of free design templates",
+          "title": "SceneLab"
+        },
+        {
+          "children": [],
+          "description": "Preview and convert Sketch design files into Angular, React, Vue, LitElement, Stencil, Xamarin, and more (free and open source at )",
+          "title": "xLayers",
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-02-27T23:22:44Z",
+            "owner": "xlayers",
+            "repo": "xlayers",
+            "stars": 825
+          }
+        },
+        {
+          "children": [],
+          "description": "Responsive, powerful, SEO-optimized web page builder based on GrapesJS Framework. Free for the first five pages, unlimited custom domains, all features, and simple usage.",
+          "title": "Grapedrop"
+        },
+        {
+          "children": [],
+          "description": "Completely free browser-based video editor. No watermark, up to 1080p export options.",
+          "title": "Mastershot"
+        },
+        {
+          "children": [],
+          "description": "Effortless landing page builder with hosting. One website for free.",
+          "title": "Unicorn Platform"
+        },
+        {
+          "children": [],
+          "description": "Massive repository of 300K+ of free SVG icons, collections, and brand logos. It has a simple vector editing program right in the browser for quick file editing.",
+          "title": "SVGmix.com"
+        },
+        {
+          "children": [],
+          "description": "Explore, search, and find the best-fitting icons or vectors for your projects using various vector libraries. Download free SVG Vectors for commercial use.",
+          "title": "svgrepo.com"
+        },
+        {
+          "children": [],
+          "description": "Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.",
+          "title": "haikei.app"
+        },
+        {
+          "children": [],
+          "description": "Free online design tool to create visual content.",
+          "title": "Canva"
+        },
+        {
+          "children": [],
+          "description": "A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks.",
+          "title": "Superdesigner"
+        },
+        {
+          "children": [],
+          "description": "Low-code Front-end Design & Development Platform. TeleportHQ is the collaborative front-end platform to instantly create and publish headless static websites. Three free projects, unlimited collaborators, and free code export.",
+          "title": "TeleportHQ"
+        },
+        {
+          "children": [],
+          "description": "Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT, PS and SVG vector fast and easily.",
+          "title": "vector.express"
+        },
+        {
+          "children": [],
+          "description": "Vertopal is a free online platform for converting files to various formats. Including developer converters like JPG to SVG, GIF to APNG, PNG to WEBP, JSON to XML, etc.",
+          "title": "Vertopal"
+        },
+        {
+          "children": [],
+          "description": "Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).",
+          "title": "okso.app"
+        },
+        {
+          "children": [],
+          "description": "Black and White Free SVG Cut files.",
+          "title": "Wdrfree SVG"
+        },
+        {
+          "children": [],
+          "description": "Free customizable and consistent SVG icon toolkit.",
+          "title": "Lucide"
+        },
+        {
+          "children": [],
+          "description": "Company logo API with 44M+ brands that's as easy as calling a URL. First 10,000 API calls are free.",
+          "title": "Logo.dev"
+        },
+        {
+          "children": [],
+          "description": "Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.",
+          "title": "MDBootstrap"
+        },
+        {
+          "children": [],
+          "description": "Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.",
+          "title": "TW Elements"
+        },
+        {
+          "children": [],
+          "description": "Free. \"Use Tailwind CSS but write fewer class names\" offers components like buttons.",
+          "title": "DaisyUI"
+        },
+        {
+          "children": [],
+          "description": "Simple free web app for designing custom scrollbars for the web.",
+          "title": "Scrollbar.app"
+        },
+        {
+          "children": [],
+          "description": "Free web app for creating glassmorphic designs using CSS.",
+          "title": "css.glass"
+        },
+        {
+          "children": [],
+          "description": "A curated collection of Tailwind CSS color gradients also provides a variety of generators to create your own.",
+          "title": "hypercolor.dev"
+        },
+        {
+          "children": [],
+          "description": "A collection of over 100 icon packs with a unified interface. Allows you to search for icons across packs and export individual icons as SVGs or for popular web frameworks.",
+          "title": "iconify.design"
+        },
+        {
+          "children": [],
+          "description": "Free. Beautiful, fast, and modern React & Next.js UI library.",
+          "title": "NextUI"
+        },
+        {
+          "children": [],
+          "description": "Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.",
+          "title": "Glyphs"
+        },
+        {
+          "children": [],
+          "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+          "title": "ShadcnUI"
+        },
+        {
+          "children": [],
+          "description": "Free Open Source Tailwind CSS Components.",
+          "title": "HyperUI"
+        },
+        {
+          "children": [],
+          "description": "Generate an entire year's worth of unique icons in a single click, absolutely FREE",
+          "title": "Calendar Icons Generator"
+        },
+        {
+          "children": [],
+          "description": "Generate a blurred background frame for an image, using that image source as the background blur, for Notion, Trello, Jira, and more tools",
+          "title": "Image BG Blurer"
+        },
+        {
+          "children": [],
+          "description": "Open-source alternative to Webflow. The free plan offers unlimited websites on their domain. Five websites with custom domains. Ten thousand page views/month. 2 GB asset storage.",
+          "title": "Webstudio"
+        },
+        {
+          "children": [],
+          "description": "Beautiful photos of Black and Brown people, for free. For commercial and personal use.",
+          "title": "Nappy"
+        },
+        {
+          "children": [],
+          "description": "A curated collection of Tailwind templates, components, and tools, plus useful generators for code, grids, box shadows, and more.",
+          "title": "Tailkits"
+        },
+        {
+          "children": [],
+          "description": "A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.",
+          "title": "Tailcolors"
+        },
+        {
+          "children": [],
+          "description": "A free online drawing document web page with free save to local and export support.",
+          "title": "Excalidraw"
+        },
+        {
+          "children": [],
+          "description": "Free graphic design tool with offline support, built-in assets (icons, photos, illustrations), and real-time collaboration. The free tier includes 10 cloud documents, a 30-day history, low-res assets, and basic design tools.",
+          "title": "Lunacy"
+        },
+        {
+          "children": [],
+          "description": "A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.",
+          "title": "Flows"
+        },
+        {
+          "children": [],
+          "description": "Free JPG/PNG to SVG converter with color palette customization",
+          "title": "SVG Converter"
+        },
+        {
+          "children": [],
+          "description": "Free OKLCH color picker and converter for web designers and developers.",
+          "title": "OKLCH"
+        }
+      ],
+      "title": "Design and UI"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-12-27T06:41:36.569Z",
+    "source_repository": "v1nvn/enhansome-free-for-dev",
+    "source_repository_description": "",
+    "title": "Table of Contents"
+  }
+}
