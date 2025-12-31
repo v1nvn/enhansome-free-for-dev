@@ -629,7 +629,7 @@
             "last_commit": "2025-11-04T18:29:01Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 388526
+            "stars": 388703
           }
         },
         {
@@ -895,7 +895,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-29T16:23:32Z",
+            "last_commit": "2025-12-30T17:11:13Z",
             "owner": "langwatch",
             "repo": "langwatch",
             "stars": 2709
@@ -908,10 +908,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-12-30T00:19:08Z",
+            "last_commit": "2025-12-31T00:20:13Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 17048
+            "stars": 17062
           }
         },
         {
@@ -921,10 +921,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-29T22:51:59Z",
+            "last_commit": "2025-12-30T12:07:08Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 19902
+            "stars": 19998
           }
         },
         {
@@ -934,10 +934,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-12-30T01:55:49Z",
+            "last_commit": "2025-12-31T00:23:12Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 8072
+            "stars": 8091
           }
         },
         {
@@ -947,10 +947,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-29T22:18:52Z",
+            "last_commit": "2025-12-31T02:42:57Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 3584
+            "stars": 3595
           }
         },
         {
@@ -1202,7 +1202,7 @@
             "last_commit": "2024-09-10T07:20:03Z",
             "owner": "evolus",
             "repo": "pencil",
-            "stars": 9309
+            "stars": 9312
           }
         },
         {
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-12-30T03:26:53.142Z",
+    "last_updated": "2025-12-31T03:25:52.522Z",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": "",
     "title": "Table of Contents"
