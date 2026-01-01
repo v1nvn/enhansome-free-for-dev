@@ -629,7 +629,7 @@
             "last_commit": "2025-11-04T18:29:01Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 388703
+            "stars": 388827
           }
         },
         {
@@ -895,10 +895,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-30T17:11:13Z",
+            "last_commit": "2025-12-31T21:30:26Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 2709
+            "stars": 2710
           }
         },
         {
@@ -908,10 +908,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-12-31T00:20:13Z",
+            "last_commit": "2026-01-01T00:22:04Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 17062
+            "stars": 17076
           }
         },
         {
@@ -921,10 +921,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-30T12:07:08Z",
+            "last_commit": "2025-12-31T22:20:52Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 19998
+            "stars": 20041
           }
         },
         {
@@ -934,10 +934,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2025-12-31T00:23:12Z",
+            "last_commit": "2025-12-31T08:18:22Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 8091
+            "stars": 8094
           }
         },
         {
@@ -947,10 +947,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-31T02:42:57Z",
+            "last_commit": "2025-12-31T22:42:32Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 3595
+            "stars": 3611
           }
         },
         {
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-12-31T03:25:52.522Z",
+    "last_updated": "2026-01-01T03:49:37.903Z",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": "",
     "title": "Table of Contents"
