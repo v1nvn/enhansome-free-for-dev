@@ -629,7 +629,7 @@
             "last_commit": "2025-11-04T18:29:01Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 388827
+            "stars": 388954
           }
         },
         {
@@ -895,10 +895,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-31T21:30:26Z",
+            "last_commit": "2026-01-01T20:58:42Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 2710
+            "stars": 2711
           }
         },
         {
@@ -908,10 +908,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-01T00:22:04Z",
+            "last_commit": "2026-01-02T00:19:50Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 17076
+            "stars": 17091
           }
         },
         {
@@ -921,10 +921,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-31T22:20:52Z",
+            "last_commit": "2026-01-01T23:21:20Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 20041
+            "stars": 20064
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2025-12-31T08:18:22Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 8094
+            "stars": 8096
           }
         },
         {
@@ -947,10 +947,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-12-31T22:42:32Z",
+            "last_commit": "2026-01-02T01:01:15Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 3611
+            "stars": 3625
           }
         },
         {
@@ -1548,7 +1548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-01T03:49:37.903Z",
+    "last_updated": "2026-01-02T03:29:22.702Z",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": "",
     "title": "Table of Contents"
