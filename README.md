@@ -6,7 +6,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with fre
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) ⭐ 117,187 | 🐛 13 | 🌐 HTML | 📅 2026-01-09 to add more services or remove ones whose offerings have changed or been retired.
+This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) ⭐ 117,216 | 🐛 13 | 🌐 HTML | 📅 2026-01-11 to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -462,10 +462,12 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Code Generation
 
-* [Appinvento](https://appinvento.io/) — AppInvento is a free No code app builder. In the automatically generated backend code, users have complete access to the source code and unlimited APIs and routes, allowing for extensive integration. The free plan includes three projects, five tables, and a Google add-on.
-* [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
-* [Supermaven](https://www.supermaven.com/) — Supermaven is a fast AI code completion plugin for VSCode, JetBrains, and Neovim. Free tier provides unlimited inline completions.
-* [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
+* [Appinvento](https://appinvento.io/) — A free no-code app builder. It provides complete access to the automatically generated backend source code and allows for unlimited APIs and routes. The free plan includes three projects and five tables.
+* [DhiWise](https://www.dhiwise.com/) — Converts Figma designs into dynamic Flutter and React applications. Its code generation technology is designed to optimize workflows for building production-ready mobile and web experiences.
+* [Karbon Sites](https://www.karbonsites.space) — An AI-powered site builder and editor that generates production-ready frontend code from text prompts, sketches, or resumes. Features include native Android (APK) export and a free tier with 5 generations per month (unlimited via custom Gemini API key).
+* [Metalama](https://www.postsharp.net/metalama) — A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.
+* [Supermaven](https://www.supermaven.com/) — A high-speed AI code completion plugin for VS Code, JetBrains, and Neovim. The free tier provides unlimited inline completions with a focus on ultra-low latency.
+* [v0.dev](https://v0.dev/) — Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -865,7 +867,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
 * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
 * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
-* [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota) ⭐ 7,187 | 🐛 816 | 🌐 TypeScript | 📅 2026-01-09, so you can self-host.
+* [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota) ⭐ 7,190 | 🐛 817 | 🌐 TypeScript | 📅 2026-01-09, so you can self-host.
 * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
 * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
 
@@ -932,10 +934,10 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Generative AI
 
-* [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse) ⭐ 20,360 | 🐛 468 | 🌐 TypeScript | 📅 2026-01-09
-* [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/) ⭐ 17,223 | 🐛 111 | 🌐 Python | 📅 2026-01-10
-* [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations) ⭐ 3,710 | 🐛 440 | 🌐 TypeScript | 📅 2026-01-11
-* [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch) ⭐ 2,719 | 🐛 171 | 🌐 TypeScript | 📅 2026-01-11
+* [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse) ⭐ 20,387 | 🐛 468 | 🌐 TypeScript | 📅 2026-01-09
+* [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/) ⭐ 17,231 | 🐛 119 | 🌐 Python | 📅 2026-01-12
+* [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations) ⭐ 3,739 | 🐛 456 | 🌐 TypeScript | 📅 2026-01-12
+* [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch) ⭐ 2,720 | 🐛 173 | 🌐 TypeScript | 📅 2026-01-11
 * [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
 * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) — AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
 * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
@@ -1153,7 +1155,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
 * [Hookdeck](https://hookdeck.com/pricing) — Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
 * [localhost.run](https://localhost.run/) — Expose locally running servers over a tunnel to a public URL.
-* [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel) ⭐ 21,851 | 🐛 164 | 🌐 JavaScript | 📅 2025-08-29.
+* [localtunnel](https://theboroer.github.io/localtunnel-www/) — Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel) ⭐ 21,856 | 🐛 164 | 🌐 JavaScript | 📅 2025-08-29.
 * [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
 * [ngrok.com](https://ngrok.com/) — Expose locally running servers over a tunnel to a public URL.
 * [Pinggy](https://pinggy.io) — Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
