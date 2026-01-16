@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-01-15T02:32:13Z",
+            "last_commit": "2026-01-16T01:57:45Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 17284
+            "stars": 17300
           }
         },
         {
@@ -48,10 +48,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-15T00:28:23Z",
+            "last_commit": "2026-01-15T23:07:08Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 20553
+            "stars": 20590
           }
         },
         {
@@ -66,10 +66,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-14T21:27:18Z",
+            "last_commit": "2026-01-16T00:51:34Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 2725
+            "stars": 2727
           }
         },
         {
@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-01-14T23:15:53Z",
+            "last_commit": "2026-01-16T00:15:53Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 3768
+            "stars": 3775
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-09-10T07:20:03Z",
             "owner": "evolus",
             "repo": "pencil",
-            "stars": 9317
+            "stars": 9318
           }
         },
         {
@@ -636,6 +636,11 @@
         },
         {
           "children": [],
+          "description": "OKLCH color picker and color palette generator.",
+          "title": "Volume"
+        },
+        {
+          "children": [],
           "description": "Enterprise Class Guidance and Engagement Platform, free plan three walk-thru up to 5 steps/walk.",
           "title": "walkme.com"
         },
@@ -682,7 +687,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-15T03:39:49.031Z",
+    "last_updated": "2026-01-16T03:28:47.234Z",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": "",
     "title": "Table of Contents"
