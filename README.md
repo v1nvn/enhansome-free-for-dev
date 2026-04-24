@@ -6,7 +6,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with fre
 
 The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) ⭐ 120,827 | 🐛 18 | 🌐 HTML | 📅 2026-04-21 to add more services or remove ones whose offerings have changed or been retired.
+This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) ⭐ 120,865 | 🐛 16 | 🌐 HTML | 📅 2026-04-23 to add more services or remove ones whose offerings have changed or been retired.
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
@@ -876,11 +876,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Mailtrap.io](https://mailtrap.io/) - Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
 * [Mutant Mail](https://www.mutantmail.com/) - Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
 * [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
+* [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
 * [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
 * [Plunk](https://useplunk.com) - 3K emails/month for free
 * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
 * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
 * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
+* [SendBridge Mail Tester](https://sendbridge.com/mail-tester) — Free email deliverability test with no signup. Generates a unique inbox address, then analyzes SPF, DKIM, DMARC, Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality. Unlimited tests, results in seconds, shareable report pages.
 * [Sender](https://www.sender.net) - Up to 15,000 emails/month, up to 2,500 subscribers
 * [Sendpulse](https://sendpulse.com) - 500 subscribers/month, 15,000 emails/month free
 * [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
@@ -891,7 +893,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
 * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
 * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
-* [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota) ⭐ 7,495 | 🐛 869 | 🌐 TypeScript | 📅 2026-04-22, so you can self-host.
+* [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota) ⭐ 7,503 | 🐛 873 | 🌐 TypeScript | 📅 2026-04-23, so you can self-host.
 * [Verifalia](https://verifalia.com/email-verification-api) - Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
 * [verimail.io](https://verimail.io/) - Bulk and API email verification service. 100 free verifications/month
 * [Waitlio](https://waitlio.com/) - Waitlist management software for product launches. Create branded waitlist pages, collect and verify email subscribers, manage signups with tags and analytics. Free plan includes 100 subscribers/month, 1 waitlist, and API access.
@@ -964,10 +966,10 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Generative AI
 
-* [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse) ⭐ 25,729 | 🐛 588 | 🌐 TypeScript | 📅 2026-04-22
-* [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/) ⭐ 18,987 | 🐛 152 | 🌐 Python | 📅 2026-04-23
-* [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations) ⭐ 4,368 | 🐛 756 | 🌐 TypeScript | 📅 2026-04-22
-* [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch) ⭐ 3,210 | 🐛 521 | 🌐 TypeScript | 📅 2026-04-22
+* [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse) ⭐ 25,950 | 🐛 579 | 🌐 TypeScript | 📅 2026-04-24
+* [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource](https://github.com/comet-ml/opik/) ⭐ 19,007 | 🐛 150 | 🌐 Python | 📅 2026-04-24
+* [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations) ⭐ 4,379 | 🐛 758 | 🌐 TypeScript | 📅 2026-04-24
+* [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource](https://github.com/langwatch/langwatch) ⭐ 3,215 | 🐛 481 | 🌐 TypeScript | 📅 2026-04-24
 * [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
 * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
 * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
@@ -1185,7 +1187,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 * [Hamachi](https://www.vpn.net/) - LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
 * [Hookdeck](https://hookdeck.com/pricing) - Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
 * [localhost.run](https://localhost.run/) - Expose locally running servers over a tunnel to a public URL.
-* [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel) ⭐ 22,242 | 🐛 165 | 🌐 JavaScript | 📅 2025-08-29.
+* [localtunnel](https://theboroer.github.io/localtunnel-www/) - Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel) ⭐ 22,244 | 🐛 165 | 🌐 JavaScript | 📅 2025-08-29.
 * [LocalXpose](https://localxpose.io) - Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
 * [ngrok.com](https://ngrok.com/) - Expose locally running servers over a tunnel to a public URL.
 * [Pinggy](https://pinggy.io) - Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
