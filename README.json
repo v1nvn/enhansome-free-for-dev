@@ -33,7 +33,7 @@
             "last_commit": "2026-05-29T19:51:23Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 19402
+            "stars": 19407
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-05-30T00:34:39Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 28205
+            "stars": 28240
           }
         },
         {
@@ -66,7 +66,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-30T05:48:47Z",
+            "last_commit": "2026-05-30T21:35:34Z",
             "owner": "langwatch",
             "repo": "langwatch",
             "stars": 3274
@@ -104,10 +104,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-30T05:29:06Z",
+            "last_commit": "2026-05-31T05:43:20Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 4571
+            "stars": 4575
           }
         },
         {
@@ -130,7 +130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:50:27.296Z",
+    "last_updated": "2026-05-31T06:21:12.928Z",
     "original_repository": "ripienaar/free-for-dev",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": null,
