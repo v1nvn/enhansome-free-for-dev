@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-08T05:36:12Z",
+            "last_commit": "2026-06-09T01:22:44Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 19449
+            "stars": 19491
           }
         },
         {
@@ -48,10 +48,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-07T16:04:07Z",
+            "last_commit": "2026-06-08T23:02:33Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 28653
+            "stars": 28723
           }
         },
         {
@@ -66,10 +66,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-08T06:36:22Z",
+            "last_commit": "2026-06-09T06:07:25Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3292
+            "stars": 3293
           }
         },
         {
@@ -104,10 +104,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-08T05:49:08Z",
+            "last_commit": "2026-06-09T05:36:39Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 4627
+            "stars": 4636
           }
         },
         {
@@ -130,7 +130,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:46:33.666Z",
+    "last_updated": "2026-06-09T06:11:37.944Z",
     "original_repository": "ripienaar/free-for-dev",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": null,
