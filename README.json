@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T22:22:57Z",
+            "last_commit": "2026-06-12T22:52:02Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 19582
+            "stars": 19593
           }
         },
         {
@@ -48,10 +48,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-11T23:07:22Z",
+            "last_commit": "2026-06-12T23:07:56Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 28949
+            "stars": 28999
           }
         },
         {
@@ -66,10 +66,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T06:43:26Z",
+            "last_commit": "2026-06-12T22:31:50Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3300
+            "stars": 3299
           }
         },
         {
@@ -94,20 +94,15 @@
         },
         {
           "children": [],
-          "description": "An AI-native fast, simple, and secure alternative to popular business intelligence solutions like Tableau, Power BI, and Looker. Othor utilizes large language models (LLMs) to deliver custom business intelligence solutions in minutes. The Free Forever plan provides one workspace with five datasource connections for one user, with no limits on analytics.",
-          "title": "Othor AI"
-        },
-        {
-          "children": [],
           "description": "easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow.",
           "title": "Pollinations.AI",
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T05:47:39Z",
+            "last_commit": "2026-06-13T05:43:26Z",
             "owner": "pollinations",
             "repo": "pollinations",
-            "stars": 4656
+            "stars": 4659
           }
         },
         {
@@ -130,7 +125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:44:11.725Z",
+    "last_updated": "2026-06-13T06:18:48.122Z",
     "original_repository": "ripienaar/free-for-dev",
     "source_repository": "v1nvn/enhansome-free-for-dev",
     "source_repository_description": null,
